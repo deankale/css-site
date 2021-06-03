@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-family: 'Pattaya', sans-serif;
+  font-size: 60px;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+h4 {
+  font-family: 'Caveat', cursive;
+  font-size: 30px;
+}
+
+div {
+  margin: 0;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.icon-attribute {
+  padding-bottom: 0;
+}
+
+.top-container {
+  background-color: #bfcba8;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #4aa96c;
+}
+
+.bottom-container {
+  background-color: #564a4a;
+  padding: 20px;
+}
+
+.music-icons {
+  height: 200px;  width: 200px;
+  margin: 20px;
+}
+
+.science-icons {
+  height: 200px;  width: 200px;
+  margin: 20px;
+}
+
+.coding-icons {
+  height: 200px;  width: 200px;
+  margin: 20px;
+}
+
+.skills {
+  padding-bottom: 0;
+}
+
+.cloud-top {
+  position:absolute;
+  top: 50px;
+  right: 400px;
+}
+
+.cloud-bottom {
+  position:absolute;
+  left: 400px;
+}
+
+.mountain {
+  position: relative;
+  top: 50px;
+}
+
+.footer-link {
+  margin: 10px;
+  color: #bfcba8;
+}
